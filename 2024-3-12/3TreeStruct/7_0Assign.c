@@ -105,6 +105,7 @@ int main() {
                             printf("树不存在！\n");
                         }
                     }
+
                     else if(num==5){
                         if(M[t_num]){
                             i= BiTreeDepth(M[t_num]->l_kid);
@@ -118,6 +119,34 @@ int main() {
                         }
                     }
 
+                    else if(num==6){
+                        if(M[t_num]){
+                            printf("输入需要查询的元素!\n");
+                            scanf("%c",&e);
+                            p= LocateNode(M[t_num],e);
+                            if(p){
+                                printf("节点为:%c %c!/n",p->data,p->key);
+                            } else{
+                                printf("不存在该节点!/n");
+                            }
+                        }else{
+                            printf("树不存在！\n");
+                        }
+                    }
+
+                    else if(num==7){
+                        if(M[t_num]){
+                            printf("输入需要查询的元素及其赋值!\n");
+                            scanf("%c %c",&e,&value);
+                            if(Assign(M[t_num],e,value)){
+                                printf("节点赋值成功!/n");
+                            } else{
+                                printf("节点赋值失败!/n");
+                            }
+                        }else{
+                            printf("树不存在！\n");
+                        }
+                    }
 
 
                 }
@@ -201,4 +230,28 @@ int BiTreeDepth(Tree *T){
     }
     return depth;
 }//求二叉树深度
+
+Tree *LocateNode(Tree *T,char e){
+    Tree *p;
+    if(!T){
+        return NULL;//空指针
+    } else{
+        if((*T).key==e) return T;//找到返回
+
+        p=LocateNode(T->l_kid,e);//左树遍历
+        if(p) return p;//如果没找到，就遍历右树
+        else return LocateNode(T->r_kid,e);
+    }
+
+}//查找结点
+
+bool Assign(Tree *T,char e,char value){
+    Tree *p;
+    p= LocateNode(T,e);
+    if(p){
+        p->data=(int)value;
+        return true;
+    } else return false;
+
+}//结点赋值
 

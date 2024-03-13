@@ -19,8 +19,8 @@ bool BiTreeEmpty(Tree *T);//判断空表
 int BiTreeDepth(Tree *T);//求二叉树深度
 Tree *LocateNode(Tree *T,char e); //查找结点
 bool Assign(Tree *T,char e,char value);//结点赋值
-bool parents(Tree *T,char e);
-bool GetSibling(Tree *T,char e);//获得兄弟结点
+Tree* parents(Tree *T,char e);
+Tree* GetSibling(Tree *T,char e);//获得兄弟结点
 bool InsertNode(Tree *T,char e,bool LR,Tree *c);//插入结点
 bool DeleteNode(Tree *T,char e);//删除关键字为 e 的结点
 bool Delecel(Tree *T);//删除结点
@@ -105,6 +105,7 @@ int main() {
                             printf("树不存在！\n");
                         }
                     }
+
                     else if(num==5){
                         if(M[t_num]){
                             i= BiTreeDepth(M[t_num]->l_kid);
@@ -112,6 +113,50 @@ int main() {
                                 printf("二叉树深度为%d!/n",i);
                             } else{
                                 printf("二叉树空!/n");
+                            }
+                        }else{
+                            printf("树不存在！\n");
+                        }
+                    }
+
+                    else if(num==6){
+                        if(M[t_num]){
+                            printf("输入需要查询的元素!\n");
+                            scanf("%c",&e);
+                            p= LocateNode(M[t_num],e);
+                            if(p){
+                                printf("节点为:%c %c!/n",p->data,p->key);
+                            } else{
+                                printf("不存在该节点!/n");
+                            }
+                        }else{
+                            printf("树不存在！\n");
+                        }
+                    }
+
+                    else if(num==7){
+                        if(M[t_num]){
+                            printf("输入需要查询的元素及其赋值!\n");
+                            scanf("%c %c",&e,&value);
+                            if(Assign(M[t_num],e,value)){
+                                printf("节点赋值成功!/n");
+                            } else{
+                                printf("节点赋值失败!/n");
+                            }
+                        }else{
+                            printf("树不存在！\n");
+                        }
+                    }
+
+                    else if(num==8){
+                        if(M[t_num]){
+                            printf("输入需要查询的元素!\n");
+                            scanf("%c",&e);
+                            p= GetSibling(M[t_num]->l_kid,e);
+                            if(p){
+                                printf("%c的兄弟节点为点为:%c %c!/n",e,p->data,p->key);
+                            } else{
+                                printf("不存在该节点的兄弟节点!/n");
                             }
                         }else{
                             printf("树不存在！\n");
@@ -201,4 +246,58 @@ int BiTreeDepth(Tree *T){
     }
     return depth;
 }//求二叉树深度
+
+Tree *LocateNode(Tree *T,char e){
+    Tree *p;
+    if(!T){
+        return NULL;//空指针
+    } else{
+        if((*T).key==e) return T;//找到返回
+
+        p=LocateNode(T->l_kid,e);//左树遍历
+        if(p) return p;//如果没找到，就遍历右树
+        else return LocateNode(T->r_kid,e);
+    }
+
+}//查找结点
+
+bool Assign(Tree *T,char e,char value){
+    Tree *p;
+    p= LocateNode(T,e);
+    if(p){
+        p->data=(int)value;
+        return true;
+    } else return false;
+
+}//结点赋值
+
+Tree* parents(Tree *T,char e){
+    Tree *p,*q=NULL;
+    if(!T){
+        return NULL;//空指针
+    } else{
+        if(T->l_kid!=NULL&&T->l_kid->key==e || T->r_kid!=NULL&&T->r_kid->key==e) return T;//找到返回
+        else{
+            p=parents(T->l_kid,e);//左树遍历
+            if(p) return p;//如果没找到，就遍历右树
+            else return parents(T->r_kid,e);
+        }
+    }
+}
+
+Tree* GetSibling(Tree *T,char e){
+    Tree *p;
+    p= parents(T,e);
+    if(!p) return false;
+    else if(p->l_kid!=NULL&&p->l_kid->key==e){
+        p=p->r_kid;
+        return p;
+
+    }else {
+        if(p->r_kid!=NULL&&p->r_kid->key==e){
+            p=p->l_kid;
+            return p;
+        }
+    }
+}//获得兄弟结点
 
