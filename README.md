@@ -1,4 +1,11 @@
 # Sefl_C_Plus
+# 第三周：
+## 2024-3-16
+### 邻接表4 （13：30-19-30）完成：
+[4LocalVex--15Read](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-3-16)
+### 广度BFS 笔记（22：00-22：30）：
+[BFS笔记](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-16/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86%E7%9A%84%E5%8E%9F%E7%90%86%EF%BC%9A.md)
+
 # 第二周：
 
 ## 2024-3-10
