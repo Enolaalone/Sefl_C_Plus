@@ -1,5 +1,14 @@
 # Sefl_C_Plus
 # 第三周：
+## 2024-3-17
+### 邻接表4 调试 深度DFS笔记整理 复习 （10：10-11：45）
+[DFS笔记](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-17/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88DFS.md)
+### DFS 全排序 （15：45-17：00）C++
+[46全排序](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-17/46%E5%85%A8%E6%8E%92%E5%88%97.cpp)
+[笔记vector](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-17/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88DFS.md)
+### HalfCode复习 编码构建（21：30--22：30）
+[TreeCode](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-3-17/1HalfCode)
+
 ## 2024-3-16
 ### 邻接表4 （13：30-19-30）完成：
 [4LocalVex--15Read](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-3-16)
@@ -7,7 +16,6 @@
 [BFS笔记](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-16/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86%E7%9A%84%E5%8E%9F%E7%90%86%EF%BC%9A.md)
 
 # 第二周：
-
 ## 2024-3-10
 
 ### 复习拓扑排序（1：10--14：45） 
