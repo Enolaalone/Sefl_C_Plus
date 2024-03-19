@@ -2,9 +2,9 @@
 # 第三周：
 ## 2024-3-28
 ### HalfCode复习 递归code realloc动态数组（12：10-13：34）
-[递归code].(https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-3-18/1HalfCode)
+[递归code](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-3-18/1HalfCode)
 ### 46.解码字符串（21：10-21：40）
-[46双栈].(https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-18/394%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.cpp)
+[46双栈](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-18/394%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.cpp)
 ### HalfCode调试 （22：00-23：00）未完成
 vscode 调试路径无法检测 终端无法输入 更改路径GCC G++
 ## 2024-3-17
