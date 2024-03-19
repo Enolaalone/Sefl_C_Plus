@@ -1,6 +1,16 @@
 # Sefl_C_Plus
 # 第三周：
-## 2024-3-28
+
+## 2024-3-19
+### HalfCode 代码调试（12：45-13：34）
+[求最小次数小](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-19/3create_list.cpp)
+### 224基本计算器（16：20-18：10）
+[224.基本计算器.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-19/224.%E5%9F%BA%E6%9C%AC%E8%AE%A1%E7%AE%97%E5%99%A8.cpp)
+### 复习 dfs组合全排列 双栈（22：35-23：10）
+[uncode_str.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-19/uncode_str.cpp)
+[DFS_Combine.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-19/DFS_Combine.cpp)
+
+## 2024-3-18
 ### HalfCode复习 递归code realloc动态数组（12：10-13：34）
 [递归code](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-3-18/1HalfCode)
 ### 46.解码字符串（21：10-21：40）
