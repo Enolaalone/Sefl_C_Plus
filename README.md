@@ -1,11 +1,11 @@
 # Sefl_C_Plus
 # 第三周：
-## 2024-3-20
-### Keil安装（21：10-21：25）
-### 文件压缩 （21：40-23：00）
-位操作<< >> & ^ | ~
-Strcoll  BinSearch 二分查找
- BinString 未完成
+## 2024-3-20 
+### Keil安装（21：10-21：25） 
+### 文件压缩 （21：40-23：00） 
+位操作<< >> & ^ | ~ 
+Strcoll  BinSearch 二分查找  
+ BinString 未完成  
  [code](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-20/2BinSearch.cpp)
 ## 2024-3-19
 ### HalfCode 代码调试（12：45-13：34）
