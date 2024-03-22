@@ -2,7 +2,8 @@
 # 第三周：
 ## 2024-3-21
 ### 文件解压&压缩 + 调试：（13：20--17：00）
-qsort()排序法 按位读取和写入
+qsort()排序法  
+按位读取和写入
 ### str 资源查询（版本多） 学习:（20：30-22：00）
 [自写memchr()](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-21/1memchr/1memchr.cpp)
 [2021GUU_mamchr()](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-21/1memchr/G_memchr.cpp)位检测 32 64 
