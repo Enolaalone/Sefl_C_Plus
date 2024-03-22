@@ -18,33 +18,33 @@ Strcoll  BinSearch 二分查找
 ### HalfCode 代码调试（12：45-13：34）
 [求最小次数小](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-19/3create_list.cpp) ，没有考虑最小 次小之间数
 ### 224基本计算器（16：20-18：10）
-[224.基本计算器.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-19/224.%E5%9F%BA%E6%9C%AC%E8%AE%A1%E7%AE%97%E5%99%A8.cpp)
+[224.基本计算器.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-19/224.%E5%9F%BA%E6%9C%AC%E8%AE%A1%E7%AE%97%E5%99%A8.cpp)中缀 后缀
 -（  -2）  3-（5-6） 后缀区别；
 ### 复习 dfs组合全排列 双栈（22：35-23：10） 
 [uncode_str.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-19/uncode_str.cpp)  
 [DFS_Combine.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-19/DFS_Combine.cpp)
 
 ## 2024-3-18
-### HalfCode复习 递归code realloc动态数组（12：10-13：34）
-[递归code](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-3-18/1HalfCode)
+### HalfCode复习（12：10-13：34）
+[code](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-3-18/1HalfCode) 得到halfcode realloc动态数组
 ### 46.解码字符串（21：10-21：40）
-[46双栈](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-18/394%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.cpp)
+[46双栈](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-18/394%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.cpp)栈处理
 ### HalfCode调试 （22：00-23：00）未完成
 vscode 调试路径无法检测 终端无法输入 更改路径GCC G++
 ## 2024-3-17
 ### 邻接表4 调试 深度DFS笔记整理 复习 （10：10-11：45）
 [DFS笔记](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-17/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88DFS.md)
 ### DFS 全排序 （15：45-17：00）C++
-[46全排序](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-17/46%E5%85%A8%E6%8E%92%E5%88%97.cpp)
+[46全排序](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-17/46%E5%85%A8%E6%8E%92%E5%88%97.cpp) 深度遍历全排序
 [笔记vector](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-17/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88DFS.md)
 ### HalfCode复习 create_list（21：30--22：30）
-[TreeCode](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-3-17/1HalfCode)
+[TreeCode](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-3-17/1HalfCode)树的构建
 
 ## 2024-3-16
 ### 邻接表4 （13：30-19-30）完成：
 [4LocalVex--15Read](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-3-16)
 ### 广度BFS 笔记（22：00-22：30）：
-[BFS笔记](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-16/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86%E7%9A%84%E5%8E%9F%E7%90%86%EF%BC%9A.md)
+[BFS笔记](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-16/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86%E7%9A%84%E5%8E%9F%E7%90%86%EF%BC%9A.md)队列实现
 
 # 第二周：
 ## 2024-3-10
