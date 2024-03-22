@@ -1,5 +1,10 @@
 # Sefl_C_Plus
 # 第三周：
+## 2024-3-22 
+### string.h （19：30--22：40）
+cdecl调用约定 [调用约定__cdecl、__stdcall和__fastcall](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-22/%E8%B0%83%E7%94%A8%E7%BA%A6%E5%AE%9Acdecl%E3%80%81stdcall%E5%92%8C__fastcall.md)
+[memccpy](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-3-22/2memccpy)复制前n字符串  
+[memicmp](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-3-22/3memicmp)比较前n字符串 未完成
 ## 2024-3-21
 ### 文件解压&压缩 + 调试：（13：20--17：00）
 qsort()排序法  
