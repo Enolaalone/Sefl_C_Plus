@@ -1,5 +1,12 @@
 # Sefl_C_Plus
 # 第三周：
+## 总结： 
+-提升
+ - 时间安排
+ - 效率
+ - 目的性
+- 主观感受
+  
 ## 2024-3-22 
 ### string.h （19：30--22：40）
 cdecl调用约定 [调用约定__cdecl、__stdcall和__fastcall](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-22/%E8%B0%83%E7%94%A8%E7%BA%A6%E5%AE%9Acdecl%E3%80%81stdcall%E5%92%8C__fastcall.md)  
