@@ -8,6 +8,9 @@
 给原始程序写注释： 不理解为什么指针要重新向下对齐，还要使用新的类型定义空间op_t。。。  
 [memchr_explain](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-24/memchr_ex.cpp)
 [指定宽度对齐（笔记）](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-24/%E6%8C%87%E5%AE%9A%E5%AE%BD%E5%BA%A6%E5%AF%B9%E9%BD%90%EF%BC%9A.md)
+### 复习 SP 华科1数组（21：10-22：00） 
+所有函数写完  
+[arry](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-24/1arry.c)  
 
 ## 2024-3-23  
 ### 关键字const（11：00-12：00）
