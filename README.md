@@ -1,5 +1,14 @@
 # Sefl_C_Plus
-# 第五周：
+# 第五周： 
+## 2024_3-24  
+### 小蜜蜂视频 （10：00-11：30） 
+学习 138译码器 573锁存器 
+[LED笔记](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-24/Led%E5%9F%BA%E6%9C%AC%E6%8E%A7%E5%88%B6%EF%BC%9A.md)
+### 学习 memchr 2024.2版（每年一个新版本） （12：40-13：30）（16：00-17：30）：
+给原始程序写注释： 不理解为什么指针要重新向下对齐，还要使用新的类型定义空间op_t。。。  
+[memchr_explain](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-24/memchr_ex.cpp)
+[指定宽度对齐（笔记）](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-24/%E6%8C%87%E5%AE%9A%E5%AE%BD%E5%BA%A6%E5%AF%B9%E9%BD%90%EF%BC%9A.md)
+
 ## 2024-3-23  
 ### 关键字const（11：00-12：00）
 [关键字const](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-23/%E5%85%B3%E9%94%AE%E5%AD%97const.md)  
