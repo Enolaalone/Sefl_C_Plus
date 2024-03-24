@@ -1,6 +1,6 @@
 # Sefl_C_Plus
 # 第五周： 
-## 2024_3-24  
+## 2024_3-24（4h+）    
 ### 小蜜蜂视频 （10：00-11：30） 
 学习 138译码器 573锁存器 
 [LED笔记](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-24/Led%E5%9F%BA%E6%9C%AC%E6%8E%A7%E5%88%B6%EF%BC%9A.md)
@@ -12,14 +12,14 @@
 所有函数写完  
 [arry](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-24/1arry.c)  
 
-## 2024-3-23  
+## 2024-3-23（2h+）  
 ### 关键字const（11：00-12：00）
 [关键字const](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-23/%E5%85%B3%E9%94%AE%E5%AD%97const.md)  
 两种属性：在谁后谁的值不变  
 ### memcmp官版 （12：30-1：30）
 [memcmp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-23/memcmp/memicmp.cpp)
 原理： count--计数；比较字符ascii相减结果； 
-### Keil配置流程多文件执行 stc配置笔记
+### Keil配置流程多文件执行 stc配置笔记 
 [keil&STC](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-23/keil%E6%96%87%E4%BB%B6%E9%85%8D%E7%BD%AE%EF%BC%9A.md)  
 单片机型号：IAP15F2K61s2
 
