@@ -1,5 +1,12 @@
 # Sefl_C_Plus
 # 第五周： 
+## 2024-3-25（2h+） 
+### 学习memcmp(2024.2)（12：30-13：00）
+[大端小端系统](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-25/%E5%A4%A7%E7%AB%AF%EF%BC%8C%E5%B0%8F%E7%AB%AF%E7%B3%BB%E7%BB%9F%EF%BC%9A.md)  
+### 复习 SP 华科1数组（21：30-22：20） 
+[arry](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-25/1arry.c) 
+### memcmp op_t（22：30-23：00）  
+[memcmp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-25/memcmp_ex.cpp)  
 ## 2024_3-24（4h+）    
 ### 小蜜蜂视频 （10：00-11：30） 
 学习 138译码器 573锁存器 
