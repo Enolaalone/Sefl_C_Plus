@@ -1,5 +1,14 @@
 # Sefl_C_Plus
 # 第五周： 
+## 2024-3-26 （2h+） 
+### SP List2 （15：40-16：40）  
+复习华科2函数部分  [List](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-26/2List.c)  
+### 单片机 （21：30-23：00） 
+学习蜂鸣器&继电器的开关 
+ULN2003的输入输出(相反)  
+十六进制控制输入输出（高对高-低对低）  
+[蜂鸣器&继电器](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-26/%E8%9C%82%E9%B8%A3%E5%99%A8%26%E7%BB%A7%E7%94%B5%E5%99%A8.md)  
+[buzzer_code](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-26/1Buzzer.c)  
 ## 2024-3-25（2h+） 
 ### 学习memcmp(2024.2)（12：30-13：00）
 [大端小端系统](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-25/%E5%A4%A7%E7%AB%AF%EF%BC%8C%E5%B0%8F%E7%AB%AF%E7%B3%BB%E7%BB%9F%EF%BC%9A.md)常见都是小端 地址大小和数据储存大小一致  
