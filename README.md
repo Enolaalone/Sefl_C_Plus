@@ -4,7 +4,7 @@
 ### SP List2 （15：40-16：40）  
 复习华科2函数部分  [List](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-26/2List.c)  
 ### 单片机 （21：30-23：00） 
-学习蜂鸣器&继电器的开关 
+学习蜂鸣器&继电器的开关   
 ULN2003的输入输出(相反)  
 十六进制控制输入输出（高对高-低对低）  
 [蜂鸣器&继电器](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-26/%E8%9C%82%E9%B8%A3%E5%99%A8%26%E7%BB%A7%E7%94%B5%E5%99%A8.md)  
