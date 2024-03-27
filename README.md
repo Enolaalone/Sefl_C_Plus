@@ -1,5 +1,10 @@
 # Sefl_C_Plus
 # 第五周： 
+## 2024-3-27  （1h-）
+满课，晚上考试，考试完实验室。忙。。  
+### memcpy （12： 30-13：10）  
+[memcpy地址对齐](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-27/memcpy.cpp)  
+[csdn-memcpy](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-27/memcpy&%E6%B1%87%E7%BC%96.md)宏定义未讲解  
 ## 2024-3-26 （2h+） 
 ### SP List2 （15：40-16：40）  
 复习华科2函数部分  [List](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-26/2List.c)  
