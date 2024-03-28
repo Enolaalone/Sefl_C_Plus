@@ -1,5 +1,16 @@
 # Sefl_C_Plus
 # 第五周： 
+## 2024-3-28  （5h+）  
+### memmove  （12：40-13；30） 
+[memmove](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-28/memmove_ex.cpp) 不理解复制地址在被复制地址前面的情况，为什么还是要从后往前复制  
+### 单片机LED 流水-跑马-呼吸 （15：30-17：30 ） 
+[HC138 74HC02 74HC573原理](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-28/74HC138%20%26%2074HC02%20%26%2074HC573.md)138输出低电平  74HC02或非门取反-输高  
+[delay函数](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-28/2.c)同Arduino delay()  
+[lit闪烁](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-28/2.c)[四种灯](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-28/5all.c)  
+呼吸灯一个时间刻度约10ms 
+### List2 SP （21：30-22：20） 
+[main()](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-28/2List.c) 主函数部分  
+### strcat memset strncat（-23：00）
 ## 2024-3-27  （1h-）
 满课，晚上考试，考试完实验室。忙。。  
 ### memcpy （12： 30-13：10）  
