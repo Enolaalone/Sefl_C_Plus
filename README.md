@@ -1,5 +1,11 @@
 # Sefl_C_Plus
 # 第五周： 
+## 2024-3-29  （2h）  
+### memset() （16：30-17：30）
+看懂了批量处理数据 [memset注释](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-29/memset_ex.cpp)  
+### 32最长有效括号 （22：20-23：00）
+没写出来，看解析  
+[32最长有效括号.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-29/32%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.cpp)   
 ## 2024-3-28  （5h+）  
 ### memmove  （12：40-13；30） 
 [memmove](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-28/memmove_ex.cpp) 不理解复制地址在被复制地址前面的情况，为什么还是要从后往前复制  
