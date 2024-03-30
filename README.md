@@ -1,5 +1,10 @@
 # Sefl_C_Plus
 # 第五周： 
+## 2024-3-30  （2h） 
+### Tree3 复习 （10：30-11：40）  
+函数部分[InsertNode](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-30/3Tree.c)   
+### strcat->strcpy->stncpy （15：30-17：30）  
+[stncpy](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-30/stpcpy.cpp)   
 ## 2024-3-29  （2h）  
 ### memset() （16：30-17：30）
 看懂了批量处理数据 [memset注释](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-29/memset_ex.cpp)  
