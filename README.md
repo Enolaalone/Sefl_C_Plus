@@ -1,4 +1,17 @@
 # Sefl_C_Plus
+# 第六周：
+## 2024-3-31 （）
+### string.h （10：30-11：30）
+strchr->strchrnul(类似memchr) [strchrnul](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-31/strchrnul.c)   
+stpcpy--strcmp--strncmp(跳过)
+ - 地址对齐：MERGE (w2b, sh_1, 0, sh_2) OP_T  
+### string.h （14：00-16:30）  
+strcspn---strspn 对立函数 （辅函数）- >strtok  
+[strcspn](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-31/strcspn.cpp)  
+[strspn](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-31/strspn.cpp)  
+[strtok](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-31/strtok_r.cpp)  
+### Tree Def完 （21：40-23：30） 
+[Tree.c](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-31/3Tree.c)  
 # 第五周： 
 ## 2024-3-30  （2h） 
 ### Tree3 复习 （10：30-11：40）  
