@@ -1,6 +1,15 @@
 # Sefl_C_Plus
 # 第六周：
-## 2024-3-31 （）
+## 2024-4-1 （3h+） 
+### string.h （11：-12：00） 
+学习 strlen memchr等函数中find_eq _zore掩码 以及shift_find地址对齐转换  
+[strlen](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-1/strlen.cpp)  
+### 电路笔记整理 流水呼吸灯 （20：40-21：40） 
+复习了HC138 HC573 HC02  
+[P0](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-1/P0.md) [流水呼吸灯](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-1/7.c)  
+### Tree3 （22：00-23：00） 
+[main](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-1/3Tree.c)  
+## 2024-3-31 （3h+）
 ### string.h （10：30-11：30）
 strchr->strchrnul(类似memchr) [strchrnul](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-31/strchrnul.c)   
 stpcpy--strcmp--strncmp(跳过)
