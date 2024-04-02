@@ -1,5 +1,13 @@
 # Sefl_C_Plus
 # 第六周：
+## 2024-4-2  （）  
+### 单片机 （15：17：30）  
+- 复习蜂鸣器，继电器电路图[蜂鸣器&继电器.md](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/%E8%9C%82%E9%B8%A3%E5%99%A8%26%E7%BB%A7%E7%94%B5%E5%99%A8.md)  
+- 学习四位数码管电路图[tube.md](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/tube.md)  
+- 编写1-9999 9999计数器[1tube.c](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/1tube.c)  
+### string.h （21：40-23：00）
+- 复习strtok(字符串切割函数)[2024-4-2/strtok_r.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/strtok_r.cpp)
+- [strncmp.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/strncmp.cpp) [strcmp.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/strcmp.cpp)   
 ## 2024-4-1 （3h+） 
 ### string.h （11：-12：00） 
 学习 strlen memchr等函数中find_eq _zore掩码 以及shift_find地址对齐转换  
