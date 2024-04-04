@@ -1,7 +1,11 @@
 # Sefl_C_Plus
 # 第六周：
-## 2024-4-2  （）  
-### 单片机 （15：17：30）  
+## 2024-4-3 （）  
+### string.h讲解 SP（20：20-23：30）   
+- memchr memcpy memmove memset strcat strchr strncat  
+
+## 2024-4-2  （3h+）  
+### 单片机 （15：30-17：30）  
 - 复习蜂鸣器，继电器电路图[蜂鸣器&继电器.md](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/%E8%9C%82%E9%B8%A3%E5%99%A8%26%E7%BB%A7%E7%94%B5%E5%99%A8.md)  
 - 学习四位数码管电路图[tube.md](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/tube.md)  
 - 编写1-9999 9999计数器[1tube.c](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/1tube.c)  
