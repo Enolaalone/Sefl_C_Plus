@@ -1,6 +1,6 @@
 # Sefl_C_Plus
 # 第六周：
-## 2024-4-4 （）  
+## 2024-4-4 （4h）  
 ### string.h讲解 SP（14：30-16：30）   
 - strnlen strlen stpcpy strpbrk  
 ### 单调栈（19：00-20：00）    
