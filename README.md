@@ -1,11 +1,15 @@
 # Sefl_C_Plus
 # 第六周：
-## 2024-4-4 （4h）  
+## 2024-4-6 （1h+） 
+### string.h 笔记整理 （10：40-11：30） （13：30-14:20）  
+- memchr memcpy memcmp [string.h](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-6/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%AC%94%E8%AE%B0.md)  
+
+## 2024-4-5 （4h-）  
 ### string.h讲解 SP（14：30-16：30）   
 - strnlen strlen stpcpy strpbrk  
 ### 单调栈（19：00-20：00）    
 - [商品价格.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-5/1475%E5%95%86%E5%93%81%E6%8A%98%E6%89%A3%E5%90%8E%E7%9A%84%E6%9C%80%E7%BB%88%E4%BB%B7%E6%A0%BC.cpp)
-- [单调栈](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-5/%E7%AE%97%E6%B3%95%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E2%80%94%E2%80%94%E5%85%B3%E4%BA%8E%E5%8D%95%E8%B0%83%E6%A0%88%EF%BC%88Monotone%20Stack%EF%BC%89%E7%9A%84%E8%AF%A6%E7%BB%86%E8%AE%B2%E8%A7%A3%E5%8F%8A%E5%BA%94%E7%94%A8%E6%A1%88%E4%BE%8B.md)
+- [单调栈](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-5/%E7%AE%97%E6%B3%95%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E2%80%94%E2%80%94%E5%85%B3%E4%BA%8E%E5%8D%95%E8%B0%83%E6%A0%88%EF%BC%88Monotone%20Stack%EF%BC%89%E7%9A%84%E8%AF%A6%E7%BB%86%E8%AE%B2%E8%A7%A3%E5%8F%8A%E5%BA%94%E7%94%A8%E6%A1%88%E4%BE%8B.md)  
 #### 邻接表 队列 复习（20:30-21：30）  
 - [Table](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-5/4Table.c)  
 ## 2024-4-4 （3h+）  
