@@ -6,7 +6,7 @@
 
 ## 2024-4-5 （4h-）  
 ### string.h讲解 SP（14：30-16：30）   
-- strnlen strlen stpcpy strpbrk  
+- strnlen strlen stpcpy strpbrk(strcspn)  
 ### 单调栈（19：00-20：00）    
 - [商品价格.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-5/1475%E5%95%86%E5%93%81%E6%8A%98%E6%89%A3%E5%90%8E%E7%9A%84%E6%9C%80%E7%BB%88%E4%BB%B7%E6%A0%BC.cpp)
 - [单调栈](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-5/%E7%AE%97%E6%B3%95%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E2%80%94%E2%80%94%E5%85%B3%E4%BA%8E%E5%8D%95%E8%B0%83%E6%A0%88%EF%BC%88Monotone%20Stack%EF%BC%89%E7%9A%84%E8%AF%A6%E7%BB%86%E8%AE%B2%E8%A7%A3%E5%8F%8A%E5%BA%94%E7%94%A8%E6%A1%88%E4%BE%8B.md)  
@@ -16,7 +16,7 @@
 ### string.h讲解 SP（10：30-11：40）   
 - strcspn strspn strtok   
 ### string.h（14：30-17：30）（19：00-21：30）    
-- strstr (难) uint类型
+- strstr (难) 非对齐hash表查询（类似字典）uintptr类型
 - SP: strcmp strncmp  
 ## 2024-4-3 （2h+）  
 ### string.h讲解 SP（20：20-23：30）   
@@ -24,32 +24,34 @@
 ## 2024-4-2  （3h+）  
 ### 单片机 （15：30-17：30）  
 - 复习蜂鸣器，继电器电路图[蜂鸣器&继电器.md](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/%E8%9C%82%E9%B8%A3%E5%99%A8%26%E7%BB%A7%E7%94%B5%E5%99%A8.md)  
-- 学习四位数码管电路图[tube.md](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/tube.md)  
+- 学习共阳极四位数码管电路图[tube.md](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/tube.md)  
 - 编写1-9999 9999计数器[1tube.c](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/1tube.c)  
 ### string.h （21：40-23：00）
 - 复习strtok(字符串切割函数)[2024-4-2/strtok_r.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/strtok_r.cpp)
-- [strncmp.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/strncmp.cpp) [strcmp.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/strcmp.cpp)   
+- [strncmp.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/strncmp.cpp)（难）  
+- [strcmp.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-2/strcmp.cpp)（难） 
 ## 2024-4-1 （3h+） 
 ### string.h （11：-12：00） 
 学习 strlen memchr等函数中find_eq _zore掩码 以及shift_find地址对齐转换  
 [strlen](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-1/strlen.cpp)  
 ### 电路笔记整理 流水呼吸灯 （20：40-21：40） 
 复习了HC138 HC573 HC02  
-[P0](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-1/P0.md) [流水呼吸灯](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-1/7.c)  
+[P0](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-1/P0.md) [流水呼吸灯](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-1/7.c)   
+对电路图有深刻了解，重视硬件学习，学习看官方文献   
 ### Tree3 （22：00-23：00） 
-[main](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-1/3Tree.c)  
+[main](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-1/3Tree.c)主函数部分结束   
 ## 2024-3-31 （3h+）
 ### string.h （10：30-11：30）
 strchr->strchrnul(类似memchr) [strchrnul](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-31/strchrnul.c)   
 stpcpy--strcmp--strncmp(跳过)
- - 地址对齐：MERGE (w2b, sh_1, 0, sh_2) OP_T  
+ - 地址数据对齐相对处理：MERGE (w2b, sh_1, 0, sh_2) OP_T  
 ### string.h （14：00-16:30）  
 strcspn---strspn 对立函数 （辅函数）- >strtok  
 [strcspn](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-31/strcspn.cpp)  
 [strspn](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-31/strspn.cpp)  
 [strtok](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-31/strtok_r.cpp)  
 ### Tree Def完 （21：40-23：30） 
-[Tree.c](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-31/3Tree.c)  
+[Tree.c](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-3-31/3Tree.c)函数部分结束   
 # 第五周： 
 ## 2024-3-30  （2h） 
 ### Tree3 复习 （10：30-11：40）  
