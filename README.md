@@ -1,5 +1,12 @@
 # Sefl_C_Plus
-# 第六周：
+# 第七周：
+## 2024-4-7 （1h+） 
+### 数组的单调栈处理 （10:10-12:00）  
+- [每日气温.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-7/739%E6%AF%8F%E6%97%A5%E6%B0%94%E6%B8%A9.cpp)   
+- [最大矩形.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-7/83%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.cpp)(难)   
+### Table4 (21:30-22:30)   
+- CreatGraph----NextAdjVex [4Table.c](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-7/4Table.c)   
+# 第六周：  
 ## 2024-4-6 （1h+） 
 ### string.h 笔记整理 （10：40-11：30） （13：30-14:20）  
 - memchr memcpy memcmp [string.h](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-6/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%AC%94%E8%AE%B0.md)  
