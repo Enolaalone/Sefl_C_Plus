@@ -1,6 +1,15 @@
 # Sefl_C_Plus
-# 第七周：
-## 2024-4-7 （1h+） 
+# 第七周： 
+## 2024-4-8 （3h）   
+### 刷题 单调递增栈（10:10-11：20）   
+[接雨水.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-8/42%E6%8E%A5%E9%9B%A8%E6%B0%B4.cpp)    
+### string.h笔记 （11:30-12:10）    
+[memmove memcmp strcat strchr](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-8/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%AC%94%E8%AE%B0.md)   
+### 分流复习资料（21:20--22:40）  
+- 逻辑图形推理
+- 导论知识图    
+星期三分流考试：抽4-9一天复习！   
+## 2024-4-7 （3h+） 
 ### 数组的单调栈处理 （10:10-12:00）  
 - [每日气温.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-7/739%E6%AF%8F%E6%97%A5%E6%B0%94%E6%B8%A9.cpp)   
 - [最大矩形.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-7/83%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.cpp)(难)   
