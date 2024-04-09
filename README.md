@@ -1,5 +1,12 @@
 # Sefl_C_Plus
 # 第七周： 
+## 2024-4-9 （3h）   
+### 刷题 (12:10-12:40)   
+[栈&队列](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-9/232%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.cpp)   
+### 上机作业 (16:00-17:20)  
+### string.h 笔记(17:20-18:00)  
+[strcmp ](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-9/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%AC%94%E8%AE%B0.md)   
+### 分流笔记(21：30-23：00)    
 ## 2024-4-8 （3h）   
 ### 刷题 单调递增栈（10:10-11：20）   
 [接雨水.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-8/42%E6%8E%A5%E9%9B%A8%E6%B0%B4.cpp)    
