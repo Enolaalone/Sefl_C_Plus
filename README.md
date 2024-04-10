@@ -1,6 +1,13 @@
 # Sefl_C_Plus
 # 第七周： 
-## 2024-4-9 （3h）   
+## 2024-4-10 （2h-）   
+分流考试+满课    
+### 刷题 (12:10-12:50)    
+[双端循环队列](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-10/641%E8%AE%BE%E8%AE%A1%E5%8F%8C%E5%BE%AA%E7%8E%AF%E5%AF%B9%E5%88%97%E3%80%81.cpp)     
+### string.h+刷题笔记 (21:30-23:00)   
+[vector构建循环队列](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-10/1%E3%80%81vector%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%AE%9A%E4%B9%89%E5%92%8C%E5%88%9D%E5%A7%8B%E5%8C%96%E6%96%B9%E5%BC%8F.md)    
+[MERGE转换](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-10/%E5%AD%97%E7%AC%A6%E4%B8%B2.md)    
+## 2024-4-9 （3h）    
 ### 刷题 (12:10-12:40)   
 [栈&队列](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-9/232%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.cpp)   
 ### 上机作业 (16:00-17:20)  
