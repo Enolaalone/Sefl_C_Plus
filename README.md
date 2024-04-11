@@ -1,5 +1,19 @@
 # Sefl_C_Plus
 # 第七周： 
+## 2024-4-10 （ ）   
+### 刷题 (12:10-13：20)    
+- [优先队列（丑数）](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-11/264%E4%B8%91%E6%95%B0.cpp)   
+- [优先队列笔记](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-11/%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97.md)   
+### 单片机 (15:00-17:20)    
+复习了共阳极数码管的静态，动态显示；完善了笔记；小蜜蜂对应的训练题；感觉忘的有点快；
+- [各位显示0-9 A-F](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-11/2lit.c)
+- [显示日期](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-11/day.c)
+- [显示月份](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-11/year.c)
+- [笔记](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-11/tube.md)  
+### Table4 (21：30-22：30)  
+ArcNode BFS DFS;
+[Table4](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-11/4Table.c)  
+
 ## 2024-4-10 （2h-）   
 分流考试+满课    
 ### 刷题 (12:10-12:50)    
