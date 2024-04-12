@@ -1,6 +1,13 @@
 # Sefl_C_Plus
 # 第七周： 
-## 2024-4-10 （ ）   
+## 2024-4-12 （4h+）   
+### 刷题 (16:20-18:00)  
+- [查找和最小的 K 对数字.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-12/373%E6%9F%A5%E6%89%BE%E5%92%8C%E6%9C%80%E5%B0%8F%E7%9A%84%20K%20%E5%AF%B9%E6%95%B0%E5%AD%97.cpp)难，新知识多
+- [笔记](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-12/pair_decltype_Lambda.md)    
+### string.h(21:30-22:30)   
+复习字符串，做笔记；
+[string.h](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-12/%E5%AD%97%E7%AC%A6%E4%B8%B2.md)    
+## 2024-4-11 （4h+）   
 ### 刷题 (12:10-13：20)    
 - [优先队列（丑数）](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-11/264%E4%B8%91%E6%95%B0.cpp)   
 - [优先队列笔记](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-11/%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97.md)   
