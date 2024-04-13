@@ -1,5 +1,15 @@
 # Sefl_C_Plus
 # 第七周： 
+## 2024-4-13 （4h+）   
+### 刷题 (10：30-11：30)   
+- [存在重复元素](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-13/217%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.cpp)
+- [两个数组交集](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-13/349%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%20%E4%BA%A4%E9%9B%86.cpp)
+- [unordered_set](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-13/unordered_set.md)   
+### 了解STL库 (11:30-12:30)  
+- sequences associate unordered
+- [STL](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-13/C%2B%2B%20STL.md)  
+### 单片机 (16:40--)
+
 ## 2024-4-12 （4h+）   
 ### 刷题 (16:20-18:00)  
 - [查找和最小的 K 对数字.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-12/373%E6%9F%A5%E6%89%BE%E5%92%8C%E6%9C%80%E5%B0%8F%E7%9A%84%20K%20%E5%AF%B9%E6%95%B0%E5%AD%97.cpp)难，新知识多
