@@ -1,6 +1,6 @@
 # Sefl_C_Plus
 # 第七周： 
-## 2024-4-13 （4h+）   
+## 2024-4-13 （）   
 ### 刷题 (10：30-11：30)   
 - [存在重复元素](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-13/217%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.cpp)
 - [两个数组交集](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-13/349%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%20%E4%BA%A4%E9%9B%86.cpp)
