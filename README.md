@@ -1,8 +1,21 @@
 # Sefl_C_Plus
 
 # 第八周：
-## 2024-4-14 （）   
-### 单片机
+## 2024-4-15 （）  
+### 刷题 （18：20-18：40）（21：20-21：40）  
+- [hash函数映射](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-15/205%E5%90%8C%E6%9E%84str.cpp)  
+### 邻接表4 （22：00-23：00）  
+- 主体部分[4Table.c](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-15/4Table.c)  
+## 2024-4-14 （6h+）   
+### 单片机（10：00-12：00）（14：00-19：00） （20：30-22：00） 
+- [16键控制8灯](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-14/1.c)  
+- [16键16灯变化](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-14/4_1.c)  
+- [Shift组合键](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-14/4_1.c)  
+- [长按](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-14/5.c)  
+- [2024-4-14/矩阵键盘.md](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-14/%E7%9F%A9%E9%98%B5%E9%94%AE%E7%9B%98.md)  
+- [2024-4-14/独立按键.md](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-14/%E7%8B%AC%E7%AB%8B%E6%8C%89%E9%94%AE.md)  
+- [2024-4-14/定时器.md](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-14/%E5%AE%9A%E6%97%B6%E5%99%A8.md)  
+- [2024-4-14/中断.md](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-14/%E4%B8%AD%E6%96%AD.md)    
 # 第七周： 
 ## 2024-4-13 （）   
 ### 刷题 (10：30-11：30)   
