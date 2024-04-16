@@ -1,6 +1,13 @@
 # Sefl_C_Plus
 
 # 第八周：
+## 2024-4-16 （3h-）  
+### 上机报告 （14：00-16：00）  
+- 完成第四次上机报告；
+###  邻接表4 （21：20-22：10）  
+- [table4](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-16/4Table.c)主函数视频录制完成；
+### 刷题 （22：00-23：00）  
+- [hash统计](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-16/032%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.cpp)   
 ## 2024-4-15 （2h—）  
 ### 刷题 （18：20-18：40）（21：20-21：40）  
 - [hash函数映射](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-15/205%E5%90%8C%E6%9E%84str.cpp)  
