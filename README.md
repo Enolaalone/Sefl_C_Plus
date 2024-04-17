@@ -5,7 +5,7 @@
 ### 刷题 （18：20-18：40）  
 - [不重复字符.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-17/387%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%8D%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6.cpp)
 ### string.h 笔记（21：20-22：30） 
-[memset strchr strchrnul](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-17/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%AC%94%E8%AE%B0.md)  
+- [memset strchr strchrnul](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-17/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%AC%94%E8%AE%B0.md)  
 ## 2024-4-16 （3h-）  
 ### 上机报告 （14：00-16：00）  
 - 完成第四次上机报告；
