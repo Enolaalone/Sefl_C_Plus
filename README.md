@@ -3,15 +3,16 @@
 # 第八周：
 ## 2024-4-18 （2h-）  
 ### string.h 笔记（14：00-15：30）   
-- []()
+- [strcmp strncmp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-18/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%AC%94%E8%AE%B0.md)
 ### winform (15:40-17:30)  
-- []()
+- [winform](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-18/C%23.md)
 ### string.h 笔记（21：00-21：30）  
-- []()
+- [stpcpy](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-18/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%AC%94%E8%AE%B0.md)
 ### 刷题  （21：30-22：20）  
-- []()
+- [回文串.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-18/409%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E4%B8%B2.cpp)
+- [前缀和.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-18/303%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2_%E6%95%B0%E7%BB%84%E4%B8%8D%E5%8F%AF%E5%8F%98.cpp)    
 ### C# 环境配置（22：20-23：00）  
-- []()  
+- [visual studio C#](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-18/C%23.md)  
 ## 2024-4-17 （2h-）  
 ### 刷题 （18：20-18：40）  
 - [不重复字符.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-17/387%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%8D%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6.cpp)
