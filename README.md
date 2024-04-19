@@ -1,7 +1,14 @@
 # Sefl_C_Plus
 
 # 第八周：
-## 2024-4-18 （2h-）  
+## 2024-4-18 （4h-）  
+### 单片机 （11：00-12：20）  
+- [矩阵键盘扫描](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-19/1_2.c) 修改原来代码使之结构简单
+### C_winform(16：00-17：30)（20：00-21：00）   
+- [窗口对象代码，元素组件的使用，类与面向对象的定义方式](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-19/Program.cs)
+### 刷题 （18：00-18：30）   
+- [奇数长度子数组的和.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-19/1588%E6%89%80%E6%9C%89%E5%A5%87%E6%95%B0%E9%95%BF%E5%BA%A6%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E5%92%8C.cpp)  
+## 2024-4-18 （2h-）   
 ### string.h 笔记（14：00-15：30）   
 - [strcmp strncmp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-18/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%AC%94%E8%AE%B0.md)
 ### winform (15:40-17:30)  
