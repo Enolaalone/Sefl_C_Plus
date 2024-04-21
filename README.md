@@ -1,7 +1,15 @@
 # Sefl_C_Plus
 
 # 第八周：
-## 2024-4-18 （4h-）  
+## 2024-4-21 （6h+）  
+### Minesweeper (15:00-18:00)(22:00-23:00)  
+- 写了一天的扫雷。。。视频只讲了框架（还有问题）还是得靠GPT,我的递归有问题，GPT给的是队列递归[Minesweeper](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-21)    
+## 2024-4-20 （6h+）  
+### string.h (11:00-12：30)   
+- 字符串自己写的函数，一般都是循环实现，除了strtok只有按官方的[strself.cpps](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-20/strself)
+### 学C#看视频 （15：00-18：00）(21:30-22:30)    
+- 看视频写到，雷区的扩张（以前是递归）[MineSweeper.cs](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-20)     
+## 2024-4-19 （4h-）  
 ### 单片机 （11：00-12：20）  
 - [矩阵键盘扫描](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-19/1_2.c) 修改原来代码使之结构简单
 ### C_winform(16：00-17：30)（20：00-21：00）   
