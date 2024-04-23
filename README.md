@@ -1,6 +1,12 @@
 # Sefl_C_Plus
 
-# 第八周：
+# 第九周：
+## 2024-4-23 （4h-）  
+### C# 扫雷 阶段结束 （10：00-12：00） （21：30-23：00）  
+- 修Bug 多次重启问题很多：旗子计数，结束的条件,选项界面崩坏[Bug ](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-23)         
+## 2024-4-22 （4h-）  
+### C# 扫雷 （10：00-12：00） （21：30-23：00）  
+- 贴牌计时器 旗子计数器 [Timer Flag](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-22)   
 ## 2024-4-21 （6h+）  
 ### Minesweeper (15:00-18:00)(22:00-23:00)  
 - 写了一天的扫雷。。。视频只讲了框架（还有问题）还是得靠GPT,我的递归有问题，GPT给的是队列递归[Minesweeper](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-21)    
