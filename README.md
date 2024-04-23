@@ -5,7 +5,7 @@
 ### C# 扫雷 阶段结束 （10：00-12：00） （21：30-23：00）  
 - 修Bug 多次重启问题很多：旗子计数，结束的条件,选项界面崩坏[Bug ](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-23)         
 ## 2024-4-22 （4h-）  
-### C# 扫雷 （10：00-12：00） （21：30-23：00）  
+### C# 扫雷 （16:00-18:00） （21：30-23：00）  
 - 贴牌计时器 旗子计数器 [Timer Flag](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-22)   
 ## 2024-4-21 （6h+）  
 ### Minesweeper (15:00-18:00)(22:00-23:00)  
