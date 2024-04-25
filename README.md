@@ -1,6 +1,16 @@
 # Sefl_C_Plus
 
 # 第九周：
+## 2024-4-25 （4h-）  
+### 刷题 （12：30-13：30）   
+-[2024-4-25/560.和为 K 的子数组.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-25/560.%E5%92%8C%E4%B8%BA%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.cpp)    
+### C#笔记（14：30-16：30）   
+- [2024-4-25/C#.md](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-25/C%23.md)    
+## 2024-4-24 满课（2h-）   
+### 刷题 （12：20-13:10）  
+- [724 寻找数组的中心下标.cpp](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-24)
+### C# 扫雷笔记 （21：30-22：30）   
+- [2024-4-24/C#.md](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-24/C%23.md)    
 ## 2024-4-23 （4h-）  
 ### C# 扫雷 阶段结束 （10：00-12：00） （21：30-23：00）  
 - 修Bug 多次重启问题很多：旗子计数，结束的条件,选项界面崩坏[Bug ](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-23)         
