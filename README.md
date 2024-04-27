@@ -1,6 +1,13 @@
 # Sefl_C_Plus
 
 # 第九周：
+## 2024-4-27 （2h-）  
+### 刷题 （16：40-17：30）   
+- [前缀和&滑动窗口](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-27)
+### QT下载 （22：20-23：00）  
+## 2024-4-26 （3h-）  
+### 文字版扫雷 （10：00-12：00）（15：30-17：30）  
+- [main.cpp minesfields.h pane.h](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-26)
 ## 2024-4-25 （4h-）  
 ### 刷题 （12：30-13：30）   
 -[2024-4-25/560.和为 K 的子数组.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-25/560.%E5%92%8C%E4%B8%BA%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.cpp)    
