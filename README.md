@@ -2,6 +2,13 @@
 
 # 第九周：
 ## 2024-4-27 （2h-）  
+### QT 扫雷（14：30-16：30）  
+- 思路差不多执行函数 不一样[main](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-28/MineSweeper)
+- 图库需要qrc导入 构建map映射  
+ ### （22：30-23：00） 
+ - 链式Hash统计[字母异位词分组.cpp](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-28/49%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.cpp)
+ - sort(.begin(),end())排序左闭右开；  
+## 2024-4-27 （2h-）  
 ### 刷题 （16：40-17：30）   
 - [前缀和&滑动窗口](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-27)
 ### QT下载 （22：20-23：00）  
