@@ -1,7 +1,14 @@
 # Sefl_C_Plus
 
-# 第九周：
-## 2024-4-27 （2h-）  
+# 第拾周：
+## 2024-4-29 （2h-）  
+### EasyX下载 配置Clion (不想用vs)（22：10-23:10）   
+- [图片库加载与图片粘贴](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-29/EXMineSweeper)    
+
+### 算法 （21：30-22：10）  
+- [数独Hash统计](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-4-29/36%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.cpp)
+- 9x9Box区域的遍历统计 {3*(i/3)+j/3} 
+## 2024-4-28 （2h-）  
 ### QT 扫雷（14：30-16：30）  
 - 思路差不多执行函数 不一样[main](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-28/MineSweeper)
 - 图库需要qrc导入 构建map映射  
