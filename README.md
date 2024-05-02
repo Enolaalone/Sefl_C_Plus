@@ -1,6 +1,9 @@
 # Sefl_C_Plus
 
 # 第拾周：
+## 2024-5-1    
+### EasyX扫雷 和C#一样的的架构
+## 2024-4-30     
 ## 2024-4-29 （2h-）  
 ### EasyX下载 配置Clion (不想用vs)（22：10-23:10）   
 - [图片库加载与图片粘贴](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-4-29/EXMineSweeper)    
