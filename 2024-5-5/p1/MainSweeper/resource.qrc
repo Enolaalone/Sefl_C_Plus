@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../Resources/1.gif</file>
+        <file>../Resources/2.gif</file>
+        <file>../Resources/3.gif</file>
+        <file>../Resources/4.gif</file>
+        <file>../Resources/5.gif</file>
+        <file>../Resources/6.gif</file>
+        <file>../Resources/7.gif</file>
+        <file>../Resources/8.gif</file>
+        <file>../Resources/boom.gif</file>
+        <file>../Resources/cool1.gif</file>
+        <file>../Resources/dead1.gif</file>
+        <file>../Resources/download00.gif</file>
+        <file>../Resources/download01.gif</file>
+        <file>../Resources/download02.gif</file>
+        <file>../Resources/download03.gif</file>
+        <file>../Resources/download04.gif</file>
+        <file>../Resources/download05.gif</file>
+        <file>../Resources/download06.gif</file>
+        <file>../Resources/download07.gif</file>
+        <file>../Resources/download08.gif</file>
+        <file>../Resources/download09.gif</file>
+        <file>../Resources/flag.gif</file>
+        <file>../Resources/red_boom.gif</file>
+        <file>../Resources/smile1.gif</file>
+        <file>../Resources/under0.gif</file>
+        <file>../Resources/under1.gif</file>
+    </qresource>
+</RCC>
