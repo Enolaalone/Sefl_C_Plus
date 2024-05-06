@@ -1,5 +1,8 @@
 # Sefl_C_Plus
-
+# 第拾壹周：
+## 2024-5-6 QT游戏设计  
+- 蛇可以跑了，在做主页面  
+- [SnakeEat](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-5-6/SnakeEat)    
 # 第拾周：
 ## 2024-5-5 QT游戏设计  
 - 5-1假期结束，QT扫雷完成了，贪吃蛇还在继续肝
