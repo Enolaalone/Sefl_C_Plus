@@ -1,5 +1,12 @@
 # Sefl_C_Plus
 # 第拾壹周：
+## 2024-5-8 
+### 算法（21：30-23：00）   
+- 好久没有算法了，遇到个难的  
+- [hash表&&双向链表](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-5-8/146URL.cpp)  
+## 2024-5-7 QT游戏设计  
+- 主页面做好了，在做结束的重启界面    
+- [SnakeEat](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-5-8/SnakeEat)     
 ## 2024-5-6 QT游戏设计  
 - 蛇可以跑了，在做主页面  
 - [SnakeEat](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-5-6/SnakeEat)    
