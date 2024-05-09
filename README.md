@@ -1,5 +1,8 @@
 # Sefl_C_Plus
 # 第拾壹周：
+## 2024-5-9  
+### EasyX::Snake(22:00-23:00)   
+- [学习他人Snake](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-5-9)   
 ## 2024-5-8 
 ### 算法（21：30-23：00）   
 - 好久没有算法了，遇到个难的  
