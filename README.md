@@ -1,5 +1,8 @@
 # Sefl_C_Plus
 # 第拾壹周：
+## 2024-5-10----2024-5-12   
+- 学习他人的扫雷，修改自己的类（private,protected）私有化改造  
+- [MineSweeper](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-5-12)   
 ## 2024-5-9  
 ### EasyX::Snake(22:00-23:00)   
 - [学习他人Snake](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-5-9)   
