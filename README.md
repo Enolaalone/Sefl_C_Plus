@@ -1,5 +1,9 @@
 # Sefl_C_Plus
 # 第拾壹周：
+## 2024-5-13----2024-5-14  
+- 修改自己Snake的类（private,protected）私有化改造[Snake2](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-5-14/Snake2)
+- 完整笔记[扫雷](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-5-14/%E6%89%AB%E9%9B%B7.md)
+- 开启刷题[238除自身外的数组乘积](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-5-14/238%E9%99%A4%E8%87%AA%E8%BA%AB%E5%A4%96%E7%9A%84%E6%95%B0%E7%BB%84%E4%B9%98%E7%A7%AF.cpp)  
 ## 2024-5-10----2024-5-12   
 - 学习他人的扫雷，修改自己的类（private,protected）私有化改造  
 - [MineSweeper](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-5-12)   
