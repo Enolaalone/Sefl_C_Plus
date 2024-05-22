@@ -1,5 +1,10 @@
 # Sefl_C_Plus
+# 第拾贰周：
+## 2024-5-20----2024-5-22   
+- [AI]()
 # 第拾壹周：
+## 2024-5-19  
+- [STL]()
 ## 2024-5-13----2024-5-14  
 - 修改自己Snake的类（private,protected）私有化改造[Snake2](https://github.com/Enolaalone/Sefl_C_Plus/tree/main/2024-5-14/Snake2)
 - 完整笔记[扫雷](https://github.com/Enolaalone/Sefl_C_Plus/blob/main/2024-5-14/%E6%89%AB%E9%9B%B7.md)
